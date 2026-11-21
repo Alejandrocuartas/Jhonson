@@ -1,0 +1,257 @@
+{
+ "zanjon/render-acceso": {
+  "src": "/images/zanjon/render-acceso",
+  "width": 463,
+  "height": 260
+ },
+ "zanjon/render-aereo": {
+  "src": "/images/zanjon/render-aereo",
+  "width": 620,
+  "height": 348
+ },
+ "zanjon/render-plazoleta": {
+  "src": "/images/zanjon/render-plazoleta",
+  "width": 456,
+  "height": 257
+ },
+ "zanjon/render-sendero": {
+  "src": "/images/zanjon/render-sendero",
+  "width": 456,
+  "height": 257
+ },
+ "zanjon/render-canal": {
+  "src": "/images/zanjon/render-canal",
+  "width": 463,
+  "height": 260
+ },
+ "zanjon/planta-urbana": {
+  "src": "/images/zanjon/planta-urbana",
+  "width": 958,
+  "height": 705
+ },
+ "zanjon/axo-urbano-01": {
+  "src": "/images/zanjon/axo-urbano-01",
+  "width": 485,
+  "height": 363
+ },
+ "zanjon/axo-urbano-02": {
+  "src": "/images/zanjon/axo-urbano-02",
+  "width": 528,
+  "height": 331
+ },
+ "zanjon/axo-urbano-03": {
+  "src": "/images/zanjon/axo-urbano-03",
+  "width": 567,
+  "height": 335
+ },
+ "zanjon/implantacion-vivienda": {
+  "src": "/images/zanjon/implantacion-vivienda",
+  "width": 1056,
+  "height": 731
+ },
+ "zanjon/axo-vivienda-01": {
+  "src": "/images/zanjon/axo-vivienda-01",
+  "width": 585,
+  "height": 329
+ },
+ "zanjon/axo-vivienda-02": {
+  "src": "/images/zanjon/axo-vivienda-02",
+  "width": 619,
+  "height": 348
+ },
+ "zanjon/axo-vivienda-03": {
+  "src": "/images/zanjon/axo-vivienda-03",
+  "width": 574,
+  "height": 323
+ },
+ "zanjon/plantas-tipologia": {
+  "src": "/images/zanjon/plantas-tipologia",
+  "width": 1116,
+  "height": 643
+ },
+ "zanjon/cortes-fachadas": {
+  "src": "/images/zanjon/cortes-fachadas",
+  "width": 1173,
+  "height": 708
+ },
+ "zanjon/axo-tipologia-01": {
+  "src": "/images/zanjon/axo-tipologia-01",
+  "width": 430,
+  "height": 288
+ },
+ "zanjon/axo-tipologia-02": {
+  "src": "/images/zanjon/axo-tipologia-02",
+  "width": 449,
+  "height": 315
+ },
+ "zanjon/axo-tipologia-03": {
+  "src": "/images/zanjon/axo-tipologia-03",
+  "width": 379,
+  "height": 262
+ },
+ "mirador/render-fachada": {
+  "src": "/images/mirador/render-fachada",
+  "width": 719,
+  "height": 535
+ },
+ "mirador/render-esquina": {
+  "src": "/images/mirador/render-esquina",
+  "width": 513,
+  "height": 382
+ },
+ "mirador/render-frontal": {
+  "src": "/images/mirador/render-frontal",
+  "width": 588,
+  "height": 373
+ },
+ "mirador/planta-render-01": {
+  "src": "/images/mirador/planta-render-01",
+  "width": 709,
+  "height": 1120
+ },
+ "mirador/planta-render-02": {
+  "src": "/images/mirador/planta-render-02",
+  "width": 644,
+  "height": 1120
+ },
+ "mirador/planos-tecnicos": {
+  "src": "/images/mirador/planos-tecnicos",
+  "width": 2468,
+  "height": 1687
+ },
+ "arbolito/render-fachada": {
+  "src": "/images/arbolito/render-fachada",
+  "width": 2304,
+  "height": 1296
+ },
+ "arbolito/render-acceso": {
+  "src": "/images/arbolito/render-acceso",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-bbq": {
+  "src": "/images/arbolito/render-bbq",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-patio": {
+  "src": "/images/arbolito/render-patio",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-jardin": {
+  "src": "/images/arbolito/render-jardin",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-cocina": {
+  "src": "/images/arbolito/render-cocina",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/planta-arquitectonica": {
+  "src": "/images/arbolito/planta-arquitectonica",
+  "width": 814,
+  "height": 715
+ },
+ "arbolito/fachada": {
+  "src": "/images/arbolito/fachada",
+  "width": 1297,
+  "height": 593
+ },
+ "arbolito/render-garaje-01": {
+  "src": "/images/arbolito/render-garaje-01",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-garaje-02": {
+  "src": "/images/arbolito/render-garaje-02",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-garaje-03": {
+  "src": "/images/arbolito/render-garaje-03",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-fachada-02": {
+  "src": "/images/arbolito/render-fachada-02",
+  "width": 1536,
+  "height": 864
+ },
+ "arbolito/render-fachada-03": {
+  "src": "/images/arbolito/render-fachada-03",
+  "width": 1536,
+  "height": 864
+ },
+ "horizonte/render-fachada": {
+  "src": "/images/horizonte/render-fachada",
+  "width": 1200,
+  "height": 1172
+ },
+ "horizonte/render-frontal": {
+  "src": "/images/horizonte/render-frontal",
+  "width": 1252,
+  "height": 1133
+ },
+ "horizonte/render-nocturno": {
+  "src": "/images/horizonte/render-nocturno",
+  "width": 888,
+  "height": 717
+ },
+ "horizonte/plantas": {
+  "src": "/images/horizonte/plantas",
+  "width": 3291,
+  "height": 2249
+ },
+ "san-jeronimo/plantas": {
+  "src": "/images/san-jeronimo/plantas",
+  "width": 2460,
+  "height": 1681
+ },
+ "san-jeronimo/fachada-cortes": {
+  "src": "/images/san-jeronimo/fachada-cortes",
+  "width": 2460,
+  "height": 1681
+ },
+ "san-jeronimo/planta-cubierta": {
+  "src": "/images/san-jeronimo/planta-cubierta",
+  "width": 2460,
+  "height": 1681
+ },
+ "esencia/plantas": {
+  "src": "/images/esencia/plantas",
+  "width": 2467,
+  "height": 1686
+ },
+ "esencia/fachada-cortes": {
+  "src": "/images/esencia/fachada-cortes",
+  "width": 2468,
+  "height": 1687
+ },
+ "esencia/planta-cubierta": {
+  "src": "/images/esencia/planta-cubierta",
+  "width": 2467,
+  "height": 1686
+ },
+ "dais/plantas": {
+  "src": "/images/dais/plantas",
+  "width": 2468,
+  "height": 1687
+ },
+ "dais/planta-render-01": {
+  "src": "/images/dais/planta-render-01",
+  "width": 410,
+  "height": 798
+ },
+ "dais/planta-render-02": {
+  "src": "/images/dais/planta-render-02",
+  "width": 396,
+  "height": 800
+ },
+ "perfil/retrato": {
+  "src": "/images/perfil/retrato",
+  "width": 782,
+  "height": 800
+ }
+}
