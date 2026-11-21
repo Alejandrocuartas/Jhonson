@@ -1,10 +1,10 @@
-# Johnson — Portafolio de Jhonson Vargas Castro
+# Jhonson — Portafolio de Jhonson Vargas Castro
 
 Portafolio web de **Jhonson Vargas Castro, arquitecto** (Guadalajara de Buga, Colombia).
 Concepto: *Architecture as a visual narrative* — una revista de arquitectura interactiva
 orientada a conseguir entrevistas.
 
-**Sitio:** https://alejandrocuartas.github.io/johnson/
+**Sitio:** https://alejandrocuartas.github.io/Jhonson/
 
 ## Stack
 
@@ -47,12 +47,12 @@ npm run lint
 npm run build        # genera ./out (sitio estático)
 ```
 
-Para probar la build tal como queda en GitHub Pages (bajo `/johnson`):
+Para probar la build tal como queda en GitHub Pages (bajo `/Jhonson`):
 
 ```bash
-NEXT_PUBLIC_BASE_PATH=/johnson npm run build
-mkdir -p /tmp/site && ln -sfn "$PWD/out" /tmp/site/johnson
-python3 -m http.server 8765 -d /tmp/site   # http://localhost:8765/johnson/
+NEXT_PUBLIC_BASE_PATH=/Jhonson npm run build
+mkdir -p /tmp/site && ln -sfn "$PWD/out" /tmp/site/Jhonson
+python3 -m http.server 8765 -d /tmp/site   # http://localhost:8765/Jhonson/
 ```
 
 ## Despliegue
@@ -94,11 +94,11 @@ python scripts/build_documents.py "Portafolio Jhonson.pdf" . /tmp/x
 Todo el texto proviene de `Portafolio Jhonson.pdf`. Estos datos **no estaban en el PDF** y
 tienen un valor provisional en `src/content/site.ts` (marcados `POR CONFIRMAR`):
 
-- Institución donde estudió Arquitectura.
-- Modalidad de trabajo (presencial / híbrida) y disponibilidad geográfica.
+- Disponibilidad geográfica.
 - Cargos buscados (derivados de su experiencia).
-- Niveles de herramientas (interpretados de las barras del PDF).
-- Perfil de LinkedIn (oculto hasta que se agregue).
+
+Confirmados por el autor: Universidad Antonio Nariño, modalidad presencial, nivel alto en todas
+las herramientas y perfil de LinkedIn.
 
 El estado de los proyectos profesionales figura como "Proyecto de diseño" o "Radicación de
 licencia"; si alguno está construido, cámbialo a `construido` y agrega fotografías reales.

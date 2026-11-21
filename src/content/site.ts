@@ -10,7 +10,7 @@ import type { EducationItem, ExperienceItem, Tool } from "./types";
 
 export const site = {
   /** URL pública (sin barra final). Se usa para SEO, sitemap y Open Graph. */
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://alejandrocuartas.github.io/johnson",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://alejandrocuartas.github.io/Jhonson",
   locale: "es_CO",
   brand: "Jhonson Architecture",
 };
@@ -83,7 +83,7 @@ export const contact = {
   phoneHref: "tel:+573152926890",
   whatsapp: "https://wa.me/573152926890",
   /** Dejar vacío para ocultar. Ej.: https://www.linkedin.com/in/usuario */
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/jhonson-vargas-castro-40a8a1312/",
 };
 
 export const documents = {
@@ -94,8 +94,8 @@ export const documents = {
 /** Sección de contratación. */
 export const hiring = {
   roles: ["Residente de obra", "Arquitecto diseñador", "Auxiliar de dirección de obra"],
-  // POR CONFIRMAR: modalidad y movilidad no figuran en el PDF.
-  modality: "Presencial o híbrida",
+  // POR CONFIRMAR: movilidad geográfica.
+  modality: "Presencial",
   mobility: "Guadalajara de Buga y municipios del Valle del Cauca",
   specialization: "Vivienda y ejecución de obra",
   summary:
@@ -140,8 +140,7 @@ export const experience: ExperienceItem[] = [
 export const education: EducationItem[] = [
   {
     title: "Arquitectura",
-    // POR CONFIRMAR: el PDF no indica la institución.
-    institution: undefined,
+    institution: "Universidad Antonio Nariño",
     year: "2025",
     detail: "Trabajo de grado: Zanjón de Lechugas — reasentamiento y espacio público.",
   },
@@ -149,8 +148,8 @@ export const education: EducationItem[] = [
 
 /**
  * Herramientas. Solo se muestran las que tienen `enabled: true`.
- * Las seis primeras aparecen en el PDF; el nivel se interpretó de sus barras
- * de habilidad y se expresa con palabras, sin porcentajes.
+ * Las seis primeras aparecen en el PDF; nivel confirmado: alto en todas.
+ * Se expresa con palabras, sin porcentajes.
  */
 export const tools: Tool[] = [
   { name: "AutoCAD", level: "Avanzado", enabled: true },
@@ -158,7 +157,7 @@ export const tools: Tool[] = [
   { name: "Lumion", level: "Avanzado", enabled: true },
   { name: "Photoshop", level: "Avanzado", enabled: true },
   { name: "Illustrator", level: "Avanzado", enabled: true },
-  { name: "Revit", level: "Intermedio", enabled: true },
+  { name: "Revit", level: "Avanzado", enabled: true },
   { name: "Rhino", level: "Básico", enabled: false },
   { name: "Archicad", level: "Básico", enabled: false },
   { name: "Enscape", level: "Básico", enabled: false },
